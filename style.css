@@ -287,6 +287,13 @@ a:hover {
     font-size: 32px;
 }
 
+.height_40 {
+    height:40px;
+}
+
+.width_40 {
+    width:40px;
+}
 .navbar {
     margin-bottom: 0;
     z-index: 1;
