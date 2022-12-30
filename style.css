@@ -287,12 +287,12 @@ a:hover {
     font-size: 32px;
 }
 
-.height_quarante {
-    height:40px;
-}
-
 .width_cent {
     width:100px;
+}
+
+.sort_of_grey {
+    color: #1E1E1E!important;
 }
 
 .navbar {
