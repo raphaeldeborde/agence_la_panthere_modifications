@@ -291,6 +291,10 @@ a:hover {
     color: #1E1E1E!important;
 }
 
+.col-sm-4 a {
+    color: #1E1E1E!important;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -784,7 +788,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .btn-atomic-tangerine:hover {
