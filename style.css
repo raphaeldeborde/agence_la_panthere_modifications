@@ -287,13 +287,14 @@ a:hover {
     font-size: 32px;
 }
 
-.height_40 {
+.height_quarante {
     height:40px;
 }
 
-.width_100 {
+.width_cent {
     width:100px;
 }
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
