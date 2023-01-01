@@ -295,8 +295,12 @@ a:hover {
     color: #FFF!important;
 }
 
+.col-sm-3 a {
+    padding: 0px 18px 18px 18px;
+}
 .col-sm-4 a {
     color: #1E1E1E!important;
+    padding: 18px 0px 18px 0px;
 }
 
 .navbar {
